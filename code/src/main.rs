@@ -84,8 +84,6 @@ fn main() {
         .status();
 
     println!("✅ Shutdown complete. Tschüss!");
-    println!("changes for seeing in github");
-    println!("changes for seeing in github2222");
 
 
 }
